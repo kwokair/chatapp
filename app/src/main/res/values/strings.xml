@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First Chat App</string>
+    <string name="welcome_message">Welcome to My First Chat App</string>
+    <string name="enter_nick">Please enter your nickname</string>
+    <string name="enter_chatroom">Please enter chatroom</string>
+    <string name="enter">Enter</string>
+    <string name="enter_message">Type message</string>
+    <string name="chatroom">Chat Room</string>
+
+</resources>
